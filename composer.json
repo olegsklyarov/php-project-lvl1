@@ -1,16 +1,19 @@
 {
-    "bin": [
-        "bin/brain-games"
-    ],
-    "license": "MIT",
     "name": "olegsklyarov/brain-games",
-    "description": "Brain games project",
-    "type": "project",
+    "bin": ["bin/brain-games"],
+    "type": "library",
     "authors": [
         {
             "name": "Oleg Sklyarov",
             "email": "oleg.sklyarov@gmail.com"
         }
     ],
-    "require": {}
+    "description": "Brain games project",
+    "license": "MIT",
+    "autoload": {
+        "files": ["src/Cli.php"]
+    },
+    "require": {
+        "wp-cli/php-cli-tools": "v0.11.11"
+    }
 }
