@@ -1,4 +1,7 @@
 {
+    "bin": [
+        "bin/brain-games"
+    ],
     "name": "olegsklyarov/brain-games",
     "description": "Brain games project",
     "type": "project",
