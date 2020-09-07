@@ -2,6 +2,7 @@
     "bin": [
         "bin/brain-games"
     ],
+    "license": "MIT",
     "name": "olegsklyarov/brain-games",
     "description": "Brain games project",
     "type": "project",
