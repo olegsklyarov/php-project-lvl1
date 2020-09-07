@@ -1,0 +1,12 @@
+{
+    "name": "olegsklyarov/brain-games",
+    "description": "Brain games project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Oleg Sklyarov",
+            "email": "oleg.sklyarov@gmail.com"
+        }
+    ],
+    "require": {}
+}
